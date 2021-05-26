@@ -1,0 +1,10 @@
+{
+    "name": "Bookmark Group Tabs",
+    "description": "Allows to quickly bookmark recent Group Tabs featured tabs",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["tabGroups", "tabs", "bookmarks"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
